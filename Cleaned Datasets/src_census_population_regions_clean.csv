@@ -1,0 +1,53 @@
+state_fips,state,population_2025,region,division
+1,Alabama,5193088,South,East South Central
+2,Alaska,737270,West,Pacific
+4,Arizona,7623818,West,Mountain
+5,Arkansas,3114791,South,West South Central
+6,California,39355309,West,Pacific
+8,Colorado,6012561,West,Mountain
+9,Connecticut,3688496,Northeast,New England
+10,Delaware,1059952,South,South Atlantic
+11,District of Columbia,693645,South,South Atlantic
+12,Florida,23462518,South,South Atlantic
+13,Georgia,11302748,South,South Atlantic
+15,Hawaii,1432820,West,Pacific
+16,Idaho,2029733,West,Mountain
+17,Illinois,12719141,Midwest,East North Central
+18,Indiana,6973333,Midwest,East North Central
+19,Iowa,3238387,Midwest,West North Central
+20,Kansas,2977220,Midwest,West North Central
+21,Kentucky,4606864,South,East South Central
+22,Louisiana,4618189,South,West South Central
+23,Maine,1414874,Northeast,New England
+24,Maryland,6265347,South,South Atlantic
+25,Massachusetts,7154084,Northeast,New England
+26,Michigan,10127884,Midwest,East North Central
+27,Minnesota,5830405,Midwest,West North Central
+28,Mississippi,2954160,South,East South Central
+29,Missouri,6270541,Midwest,West North Central
+30,Montana,1144694,West,Mountain
+31,Nebraska,2018006,Midwest,West North Central
+32,Nevada,3282188,West,Mountain
+33,New Hampshire,1415342,Northeast,New England
+34,New Jersey,9548215,Northeast,Middle Atlantic
+35,New Mexico,2125498,West,Mountain
+36,New York,20002427,Northeast,Middle Atlantic
+37,North Carolina,11197968,South,South Atlantic
+38,North Dakota,799358,Midwest,West North Central
+39,Ohio,11900510,Midwest,East North Central
+40,Oklahoma,4123288,South,West South Central
+41,Oregon,4273586,West,Pacific
+42,Pennsylvania,13059432,Northeast,Middle Atlantic
+44,Rhode Island,1114521,Northeast,New England
+45,South Carolina,5570274,South,South Atlantic
+46,South Dakota,935094,Midwest,West North Central
+47,Tennessee,7315076,South,East South Central
+48,Texas,31709821,South,West South Central
+49,Utah,3538904,West,Mountain
+50,Vermont,644663,Northeast,New England
+51,Virginia,8880107,South,South Atlantic
+53,Washington,8001020,West,Pacific
+54,West Virginia,1766147,South,South Atlantic
+55,Wisconsin,5972787,Midwest,East North Central
+56,Wyoming,588753,West,Mountain
+72,Puerto Rico,3184835,,
