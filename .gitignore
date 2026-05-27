@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+.DS_Store
+node_modules/
+.venv/
+venv/
+.cache/
+dist/
+build/
+.superset/config.local.json
+.superset/runtime/
+.superset/context/current-status.txt
+.superset/context/task-handoff.md
